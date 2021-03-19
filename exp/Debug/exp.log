@@ -1,2 +1,3 @@
 ﻿  main.cpp
-  exp.vcxproj -> D:\github\exp\Debug\exp.exe
+  LINK : не найден или не выполнена сборка D:\Sourcetree\project_for_CD\exp\Debug\exp.exe при последней инкрементной компоновке; выполняется полная компоновка
+  exp.vcxproj -> D:\Sourcetree\project_for_CD\exp\Debug\exp.exe
